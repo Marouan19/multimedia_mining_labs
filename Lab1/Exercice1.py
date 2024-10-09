@@ -1,12 +1,12 @@
 import cv2
 import numpy as np
 
-# Callback function for trackbars (we don't need it but it's required by createTrackbar)
+# Callback function for trackbars
 def nothing(x):
     pass
 
 # Load the image
-image = cv2.imread('img.png')  # Replace with your image file
+image = cv2.imread('fondvert.png')
 
 # Convert the image to HSV
 hsv_image = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
