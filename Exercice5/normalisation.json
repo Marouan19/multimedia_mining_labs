@@ -4348,5 +4348,1217 @@
         "min_value": 0.0,
         "max_value": 1.0,
         "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-8.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-14.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-15.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-13.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-1.png",
+        "min_value": 0.0,
+        "max_value": 250.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-7.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-14.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-8.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-15.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-13.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-1.png",
+        "min_value": 0.0,
+        "max_value": 250.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-7.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-8.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-14.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-15.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-13.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-1.png",
+        "min_value": 0.0,
+        "max_value": 250.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-7.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-8.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-14.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-15.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-13.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-1.png",
+        "min_value": 0.0,
+        "max_value": 250.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-7.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-15.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-8.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-14.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-13.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-1.png",
+        "min_value": 0.0,
+        "max_value": 250.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-7.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-8.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-14.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-15.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-13.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-1.png",
+        "min_value": 0.0,
+        "max_value": 250.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-7.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-8.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-14.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-15.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "device0-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-13.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-1.png",
+        "min_value": 0.0,
+        "max_value": 250.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-3.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bell-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-2.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-5.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "camel-4.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "apple-1.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": "bird-7.png",
+        "min_value": 0.0,
+        "max_value": 255.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
+    },
+    {
+        "image_name": null,
+        "min_value": 0.0,
+        "max_value": 1.0,
+        "normalization_formula": "normalized_value = (pixel_value - min_value) / (max_value - min_value)"
     }
 ]
